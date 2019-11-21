@@ -1,3 +1,3 @@
-#GraphQL (MOVIE API) with APOLLO
+# GraphQL (MOVIE API) with APOLLO
 
 for study
